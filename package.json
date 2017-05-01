@@ -1,0 +1,28 @@
+{
+  "name": "testing-environment",
+  "version": "1.0.0",
+  "description": "setting up a quick testing environment for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SammySteiner/jquery-and-tdd.git"
+  },
+  "author": "Sammy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SammySteiner/jquery-and-tdd/issues"
+  },
+  "homepage": "https://github.com/SammySteiner/jquery-and-tdd#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.3.0"
+  },
+  "dependencies": {
+    "expect": "^1.20.2",
+    "expect.js": "^0.3.1",
+    "mocha": "^3.3.0"
+  }
+}
